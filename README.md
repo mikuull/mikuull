@@ -1,6 +1,6 @@
-###Hi, I'm Mateusz (Mikul) 🎉
+### Hi, I'm Mateusz (Mikul) 🎉
 
-###About Me
+### About Me
 #I'm 16 years old aspiring Frontend Developer from Poland. I started coding when I was 13 y.o
 
 ### Languages
