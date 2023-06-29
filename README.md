@@ -1,7 +1,7 @@
 # Hi, I'm Mateusz (Mikul) 🎉
 
 ### About Me
- I'm 16 years old aspiring Frontend Developer from Poland. I started coding from writing Minecraft Bedrock plugins when I was 13.
+ I'm 16 years old aspiring React Frontend Developer from Poland. I started coding from writing Minecraft Bedrock plugins when I was 13.
 
 ### Languages
 
