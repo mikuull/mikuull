@@ -24,5 +24,3 @@
 ### Contact Me
 
 Discord: Mikul#3320
-
-E-mail: mmikulski643@gmail.com
