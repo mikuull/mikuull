@@ -1,7 +1,7 @@
 # Hi, I'm Mateusz (Mikul) 🎉
 
 ### About Me
- 16 years old aspiring React Frontend Developer from Poland.
+ 17 years old aspiring React Frontend Developer from Poland.
 
 ### Languages
 
