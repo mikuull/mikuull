@@ -23,4 +23,4 @@
 
 ### Contact Me
 
-Discord: Mikul#3320
+Discord: mikuull
