@@ -24,13 +24,13 @@ I'm an 17yo aspiring full-stack developer from Poland.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikuull&show_icons=true&theme=gruvbox)
+![mikuull's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikuull&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <h3> 📞 Contact </h3>
-**`Discord: mikuull`**
-**`E-mail: mmikulski643@gmail.com`**
+`Discord: mikuull` \n
+`E-mail: mmikulski643@gmail.com`
    
