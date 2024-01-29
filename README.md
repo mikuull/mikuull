@@ -31,6 +31,6 @@ I'm an 17yo aspiring full-stack developer from Poland.
 #
 
 <h3> 📞 Contact </h3>
-`Discord: mikuull` \n
-`E-mail: mmikulski643@gmail.com`
+・ Discord: mikuull`
+・ E-mail: mmikulski643@gmail.com
    
