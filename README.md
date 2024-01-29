@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-I'm an 17yo aspiring full-stack developer from Poland.
+I'm an 17yo aspiring full-stack developer from Poland. My main technologies are NextJS, Typescript, TailwindCSS and Prisma.
 
 ---
 
