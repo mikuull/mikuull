@@ -1,8 +1,8 @@
 # ✨mikuull
 
-**`Fullstack Developer`**
+**`Frontend Developer`**
 
-I'm an 17yo aspiring full-stack developer from Poland. My main technologies are NextJS, Nest, Typescript, TailwindCSS and Prisma.
+I'm an 17yo aspiring front-end software developer from Poland. My main technologies are NextJS, React, Typescript, TailwindCSS and Prisma.
 
 ---
 
