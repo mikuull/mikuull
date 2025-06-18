@@ -37,7 +37,7 @@ I'm an 18yo aspiring front-end software developer from Poland. My main technolog
 #
 
 <h3> 📞 Contact </h3>
-・ Discord: mikuull
+・ Discord: mikul1916
 <br/>
 ・ E-mail: mmikulski643@gmail.com
    
