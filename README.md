@@ -2,8 +2,10 @@
 
 **`Frontend Developer`**
 
-I'm an **`18`** years old aspiring **`front-end`** software developer from **`Poland`**. My main technologies are **`Next.js`**, **`React`**, **`TypeScript`**, **`TailwindCSS`** and **`Prisma`**. Currently learning **`NestJS`**.
-
+**`18`**-year-old aspiring front-end developer from **`Poland`** 🇵🇱
+Passionate about learning and building things with code 🤗
+Tech: **`Next.js`**, **`React`**, **`TypeScript`**, **`TailwindCSS`**, **`Prisma`**
+Now diving into NestJS 🚀
 ---
 
 ### 🧠 Tech Stack
