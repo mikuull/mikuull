@@ -86,11 +86,6 @@ Now diving into NestJS 🚀
   </a>
 </p>
 
----
-
-### 📊 Stats
-
-![mikuull's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikuull&show_icons=true&theme=onedark)
 
 ---
 
