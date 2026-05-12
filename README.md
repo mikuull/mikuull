@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-I'm **`18`**-year-old aspiring front-end developer from **`Poland`** 🇵🇱
+I'm **`19`**-year-old aspiring front-end developer from **`Poland`** 🇵🇱
 Passionate about learning and building things with code 🤗
 Tech: **`Next.js`**, **`React`**, **`TypeScript`**, **`TailwindCSS`**, **`Prisma`**
 Now diving into NestJS 🚀
